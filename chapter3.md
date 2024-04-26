@@ -1,4 +1,4 @@
-# 3.3 
+# 3.3 Catalog
 ## 3.3.1 `quietly`
 ```stata
 qui {
